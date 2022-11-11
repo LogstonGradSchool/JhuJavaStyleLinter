@@ -1,0 +1,6 @@
+https://github.com/Netflix/Hystrix.git,4655,23034,repo//hystrix-serialization/src/test/java/com/netflix/hystrix/serial/SerialHystrixRequestEventsTest.java2,2
+https://github.com/Netflix/Hystrix.git,4655,23034,repo//hystrix-serialization/src/main/java/com/netflix/hystrix/serial/SerialHystrixConfiguration.java1,1
+https://github.com/Netflix/Hystrix.git,4655,23034,repo//hystrix-serialization/src/main/java/com/netflix/hystrix/serial/SerialHystrixDashboardData.java1,1
+https://github.com/Netflix/Hystrix.git,4655,23034,repo//hystrix-serialization/src/main/java/com/netflix/hystrix/serial/SerialHystrixUtilization.java1,1
+https://github.com/Netflix/Hystrix.git,4655,23034,repo//hystrix-serialization/src/main/java/com/netflix/hystrix/serial/SerialHystrixRequestEvents.java0,1
+https://github.com/Netflix/Hystrix.git,4655,23034,repo//hystrix-serialization/src/main/java/com/netflix/hystrix/serial/SerialHystrixMetric.java0,1
