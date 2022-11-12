@@ -1,5 +1,7 @@
 # StyleLinter
 
+[![Java CI with Maven](https://github.com/LogstonGradSchool/JhuJavaStyleLinter/actions/workflows/ci.yml/badge.svg)](https://github.com/LogstonGradSchool/JhuJavaStyleLinter/actions/workflows/ci.yml)
+
 ## Build
 
 ```
