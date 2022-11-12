@@ -30,6 +30,7 @@ public class StyleLinter {
 
       VisibilityChecker vc = new VisibilityChecker(pr.getResult().get());
 
-      System.out.printf("%d,%d\n", vc.unorderedClasses, vc.totalClasses);
+      System.out.printf("%d,%d\n", vc.getUnorderedClasses(),
+         vc.getTotalClasses());
    }
 }
