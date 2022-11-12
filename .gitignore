@@ -5,3 +5,6 @@ target
 *.project
 *.settings
 *.classpath
+
+# Jupyter
+.ipynb_checkpoints/
