@@ -16,13 +16,14 @@ mvn package
 
 ## Usage
 
+Download JAR from the [releases page](https://github.com/LogstonGradSchool/JhuJavaStyleLinter/releases). Then ...
+
 ```
-# linter.jar = target/style-linter-1.0-SNAPSHOT-jar-with-dependencies.jar
-java -jar linter.jar "path/to/file.java"
+java -jar java-style-linter-0.1.1-jar-with-dependencies.jar "path/to/file.java"
 ```
 
 For a whole directory:
 
 ```
-find . -name "*.java" | xargs -I{} java -jar linter.jar {}
+find . -name "*.java" | xargs -I{} java -jar  java-style-linter-0.1.1-jar-with-dependencies.jar  {}
 ```
