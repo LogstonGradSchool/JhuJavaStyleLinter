@@ -4,14 +4,15 @@
 
    <groupId>com.logston.jhu</groupId>
    <artifactId>java-style-linter</artifactId>
-   <version>0.1.0-SNAPSHOT</version>
+   <version>0.1.0</version>
    <packaging>jar</packaging>
 
    <scm>
       <developerConnection>
         scm:git:git@github.com:LogstonGradSchool/JhuJavaStyleLinter.git
     </developerConnection>
-   </scm>
+     <tag>0.1.0</tag>
+  </scm>
 
    <name>javasytlelinter</name>
 
