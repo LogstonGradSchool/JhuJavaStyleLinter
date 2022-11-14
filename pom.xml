@@ -11,8 +11,8 @@
       <developerConnection>
         scm:git:git@github.com:LogstonGradSchool/JhuJavaStyleLinter.git
     </developerConnection>
-     <tag>HEAD</tag>
-  </scm>
+      <tag>HEAD</tag>
+   </scm>
 
    <name>javasytlelinter</name>
 
@@ -73,6 +73,14 @@
                   </goals>
                </execution>
             </executions>
+         </plugin>
+         <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-release-plugin</artifactId>
+            <version>3.0.0-M7</version>
+            <configuration>
+               <tagNameFormat>@{project.version}</tagNameFormat>
+            </configuration>
          </plugin>
       </plugins>
    </build>
